@@ -1,4 +1,4 @@
-# PoT Training Collateral
+# PoT Experience
 
 This repository contains all assets for IBM's End-to-End AI Lifecycle Governance Hands-On Lab and PoT Training Collateral.  
 
